@@ -7,6 +7,10 @@ import java.util.Scanner;
 /**
  *
  * @author User
+ Nama : Zalfa Rosiyah Riski 
+ Nim : 22205011
+ Jurusan : Teknik Informatika 
+ Deskripsi : Buatlah program menampilkan formatting kalimat menjadi huruf besar dan kecil dimana user menginputkan sendiri kalimatnya
  */
 public class TI_REGPAGI22205011Latihan27ZalfaJava {
 
